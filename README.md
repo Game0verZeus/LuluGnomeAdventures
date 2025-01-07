@@ -1,5 +1,10 @@
 # Lulu’s Gnome Adventures
 
+
+![Gnome Adventure Screenshot 1]([https://i.ibb.co/M2JCpxT "Gnome Adventure Screenshot 1](https://i.ibb.co/8KQ72L3/Screenshot-2025-01-07-204426.png)")
+
+
+
 A small 8-bit style Python/Pygame game created in **half an evening**, because I wanted to explore my creativity and have fun!
 
 In this retro adventure, you guide **Lulu**, a brave gnome capable of triple jumping and collecting a **magic hammer** to throw axes at mushrooms, birds, and even the fearsome BadLu.
@@ -30,11 +35,9 @@ In this retro adventure, you guide **Lulu**, a brave gnome capable of triple jum
 
 ---
 
-## Screenshots / Demo
-[![Watch Gameplay]][(https://youtu.be/example-video](https://youtube.com/shorts/NHmBIguTlNk?feature=share))
-![Screenshot 1](Images/Screenshot%202025-01-07%20204419.png "Screenshot 2025-01-07 204419")
-![Screenshot 2](Images/Screenshot%202025-01-07%20204426.png "Screenshot 2025-01-07 204426")
+##  Demo
 
+[Watch the video on YouTube](https://youtube.com/shorts/NHmBIguTlNk)
 
 ```md
 ![Gameplay Example](images/gameplay.png)
