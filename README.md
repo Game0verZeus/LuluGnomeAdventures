@@ -117,7 +117,7 @@ Any improvement is welcome!
 - **Sprites & Artwork:** 8-bit style, either handmade or from open sources.
 - **Sounds & Music:**
   - `main.mp3`, `start_menu.mp3`, hammer throw sounds, etc., included in `sounds/`.
-  - Some are self-made, others are free resources with credits.
+  - Some are self-made, others are free resources with credits, most of them from envato elements.
 - **Python & Pygame:** Big thanks to the open-source community!
 
 ---
@@ -128,7 +128,7 @@ Any improvement is welcome!
 ```css
 MIT License
 
-Copyright (c) 2023 [Your Name]
+Copyright (c) 2025 Game0verZeus
 
 Permission is hereby granted, free of charge, to any person obtaining a copy ...
 ```
