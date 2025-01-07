@@ -1,7 +1,7 @@
 # Lulu’s Gnome Adventures
 
 
-![Gnome Adventure Screenshot 1]([https://i.ibb.co/M2JCpxT "Gnome Adventure Screenshot 1](https://i.ibb.co/8KQ72L3/Screenshot-2025-01-07-204426.png)")
+![Screenshot 1](Images/Screenshot%202025-01-07%20204419.png "Screenshot 2025-01-07 204419")
 
 
 
