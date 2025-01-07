@@ -38,6 +38,7 @@ In this retro adventure, you guide **Lulu**, a brave gnome capable of triple jum
 ##  Demo
 
 [Watch the video on YouTube](https://youtube.com/shorts/NHmBIguTlNk)
+![Screenshot 2](Images/Screenshot%202025-01-07%20204426.png "Screenshot 2025-01-07 204426")
 
 ```md
 ![Gameplay Example](images/gameplay.png)
