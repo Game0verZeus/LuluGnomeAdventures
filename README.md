@@ -32,9 +32,9 @@ In this retro adventure, you guide **Lulu**, a brave gnome capable of triple jum
 
 ## Screenshots / Demo
 [![Watch Gameplay]][(https://youtu.be/example-video](https://youtube.com/shorts/NHmBIguTlNk?feature=share))
-![Gnome Adventure Screenshot 1]([https://i.ibb.co/M2JCpxT "Gnome Adventure Screenshot 1](https://i.ibb.co/8KQ72L3/Screenshot-2025-01-07-204426.png)")
+![Screenshot 1](Images/Screenshot%202025-01-07%20204419.png "Screenshot 2025-01-07 204419")
+![Screenshot 2](Images/Screenshot%202025-01-07%20204426.png "Screenshot 2025-01-07 204426")
 
-![Gnome Adventure Screenshot 2](https://i.ibb.co/HD1TcQC "Gnome Adventure Screenshot 2")
 
 ```md
 ![Gameplay Example](images/gameplay.png)
